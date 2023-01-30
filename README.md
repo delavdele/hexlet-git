@@ -1,2 +1,2 @@
 # hexlet-git
-# hexlet-git
+Adel's git project 
