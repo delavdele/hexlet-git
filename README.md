@@ -1,2 +1,1 @@
-# hexlet-git
-Adel's git project 
+Hello, Hexlet! How are you?
